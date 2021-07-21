@@ -38,6 +38,16 @@ Through individuality and flexibility, you can choose which payment methods and 
 - eps
 - PayPal
 
+## Installation via Composer
+
+#### Follow the below steps and run each command from the shop root directory
+ ##### 1. Run the below command to install the payment module
+ ```
+ composer require novalnet/oxid6-payment-module:^1.0.6
+ ```
+ ##### 2. Run the below command to register the payment module
+ ```
+ ./vendor/bin/oe-console oe:module:install source/modules/oe/novalnet
 
 ## More information
 Find more about <a href="https://www.novalnet.com/modul/oxid-eshop-payment-module">OXID eShop</a> module on: https://www.novalnet.de/site_pdf/Installation_guide.pdf<br>
