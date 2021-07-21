@@ -45,7 +45,7 @@ Through individuality and flexibility, you can choose which payment methods and 
  ```
  composer require novalnet/oxid6-payment-module:^1.0.6
  ```
- ##### 2. Run the below command to register the payment module
+ ##### 2. Run the below command to register the payment module from the version above 6.2 oxid eshop
  ```
  ./vendor/bin/oe-console oe:module:install source/modules/oe/novalnet
  ```
