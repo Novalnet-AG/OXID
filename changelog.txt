@@ -1,5 +1,14 @@
 *** Changelog ***
 
+= 11.4.5 - 2021.10.27
+* Fix       - Adjusted the Credit Card iframe for shop theme to make it responsive
+* Fix       - Compatibility for PHP version 8.0
+
+= 11.4.4 - 2021.07.20
+* Fix       - For direct payments order number was set as zero
+* Fix       - Transaction amount mismatch while adding Surcharge/Reduction Price during Credit Card authentication
+* Enhanced  -  Callback has been optimized as per the new testcase
+
 = 11.4.3 - 2021.03.03 =
 * Fix      - Compatibility for Oxid eShop 6.2.0
 * New 	   - Payment duration for Prepayment
