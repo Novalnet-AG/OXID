@@ -49,9 +49,12 @@ Through individuality and flexibility, you can choose which payment methods and 
  ```
  ./vendor/bin/oe-console oe:module:install source/modules/oe/novalnet
  ```
-## More information
-Find more about <a href="https://www.novalnet.com/modul/oxid-eshop-payment-module">OXID eShop</a> module on: https://www.novalnet.de/site_pdf/Installation_guide.pdf<br>
-To test our demo shop, please visit: https://oxid.novalnet.de
+ 
+## Installation via OXID eXchange
+You can also download Oxid Payment Module for free from <a href="https://exchange.oxid-esales.com/OXID-Products/Additional-OXID-Extensions/Novalnet-Worldwide-Payment-Solutions-11-4-5-Stable-EE-PE-6-4-x.html?listtype=search&searchparam=novalnet"> Oxid eXchange</a>. Find more about <a href="https://www.novalnet.com/modul/oxid-eshop-payment-module">OXID eShop</a> module on: https://www.novalnet.de/site_pdf/Installation_guide.pdf<br>
+
+## Demo Shop
+Would you like to try web shop checkout for free? To test trial payments, please visit our <a href="https://oxid.novalnet.de">demo shop </a>.
 
 ## Contact
 Novalnet AG<br>
