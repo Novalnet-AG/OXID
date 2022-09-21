@@ -37,6 +37,10 @@ Through individuality and flexibility, you can choose which payment methods and 
 - Przelewy24
 - eps
 - PayPal
+- Online bank transfer
+- Alipay
+- WeChat Pay
+- Trustly
 
 ## Installation via Composer
 
