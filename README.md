@@ -71,7 +71,7 @@ Tel: +49 89 9230683-20<br>
 Web: www.novalnet.de
 
 ## License
-See our License Agreement at:  https://www.novalnet.com/payment-plugins/free/license
+See our License Agreement at:  https://www.novalnet.com/payment-plugins-free-license/
 
 ## About Novalnet AG
 Novalnet AG is a <a href="https://www.novalnet.de/zahlungsinstitut"> leading financial services institution </a> offering online gateways for processing of online payments. Operating in the market as a full payment service provider, Novalnet AG, founded in Ismaning near Munich, provides online merchants with user-friendly payment modules for all major shop systems and self-programmed websites. The product and service portfolio is very comprehensive and includes all commonly used payment methods of online payment. These include a variety of intelligent fraud prevention modules, free technical support, an automated accounts receivable management system, a comprehensive subscription and membership management, as well as a beneficial affiliate program. The experienced and international team of specialists at Novalnet is committed to support online merchants with in-depth knowledge and working together with them hand in hand to increase their revenue and the quality of their online payments.
