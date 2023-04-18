@@ -3,8 +3,6 @@ Novalnet payment module for <a href="https://www.novalnet.com/modul/oxid-eshop-p
 
 Novalnet payment module is available for the Oxid eshop versions 6.0.6 - 6.5.2 in the following languages in <b>EN, DE</b>
 
-Support is available in: <b> EN, DE, FR, ES, IT, BS, CR, RU, HI, TA</b>
-
 Through individuality and flexibility, you can choose which payment methods and services you need. Get seamless integration with the various types of payments and payment-related services integrated with a unique platform.
 
 ## Important functions for OXID eShop
