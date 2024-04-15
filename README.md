@@ -73,11 +73,13 @@ You can also download Oxid Payment Module for free from <a href="https://solutio
 ## Demo Shop
 Would you like to try web shop checkout for free? To test trial payments, please visit our <a href="https://oxid.novalnet.de">demo shop </a>.
 
-## Contact
+## Documentation & Support
+For more information about the  Oxid eshop 6 Payment Integration by Novalnet, please get in touch with us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
+
 Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
-Feringastr. 4<br>
-85774 Unterföhring<br>
+Gutenbergstraße 7<br>
+D-85748 Garching<br>
 Deutschland<br>
 E-mail: sales@novalnet.de<br>
 Tel: +49 89 9230683-20<br>
